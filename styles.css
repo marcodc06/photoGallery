@@ -54,6 +54,10 @@ section {
     height: auto;
 }
 
+#contact {
+    color: #ffffff;
+}
+
 form {
     margin-top: 20px;
     text-align: center;
@@ -95,6 +99,3 @@ h2 {
     font-size: 2em;
 }
 
-#contact {
-    color: #ffffff;
-}
