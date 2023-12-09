@@ -30,6 +30,8 @@ nav ul li {
 main {
     margin: 20px auto; 
     max-width: 800px; 
+    background-color: #ffffff;
+    color: #000000; 
 }
 
 section {
