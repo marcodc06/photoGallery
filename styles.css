@@ -11,7 +11,7 @@ body {
 
 nav {
     background-color: #007d7b;
-    color: #ffffff;
+    color: #000000;
     padding: 10px;
     text-align: center;
 }
@@ -57,7 +57,7 @@ form {
 }
 
 footer {
-    background-color: #007d7b;
+    background-color: #000000;
     color: #ffffff;
     text-align: center;
     padding: 10px;
