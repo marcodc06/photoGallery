@@ -16,6 +16,10 @@ nav {
     color: #ffffff; 
     padding: 10px;
     text-align: center;
+    position: fixed; 
+    width: 100%; 
+    top: 0;
+    z-index: 1000;
 }
 
 nav ul {
@@ -43,7 +47,6 @@ section {
 #gallery {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center; 
 }
 
 .gallery-item {
